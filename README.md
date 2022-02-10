@@ -8,6 +8,10 @@ Esse projeto foi feito no módulo de Front-End de Desenvolvimento Web da Trybe. 
 
 React.js, JavaScript, React Redux, Redux Toolkit
 
+## Participantes
+
+Feito em grupo com Murilo Maia, Pedro Barreto e Eduardo Santos.
+
 ## Instalando Dependências
 
 ```bash 
